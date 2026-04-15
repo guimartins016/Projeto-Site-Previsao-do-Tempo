@@ -1,0 +1,12 @@
+{
+  "name": "clima-hoje",
+  "version": "1.0.0",
+  "description": "Site de previsão do tempo",
+  "scripts": {
+    "dev": "serve .",
+    "start": "serve ."
+  },
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
+}
